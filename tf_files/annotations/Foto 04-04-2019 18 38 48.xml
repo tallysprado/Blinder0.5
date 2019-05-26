@@ -1,0 +1,26 @@
+<annotation>
+	<folder>estampa</folder>
+	<filename>Foto 04-04-2019 18 38 48.jpg</filename>
+	<path>/home/tallys/AndroidStudioProjects/Blinder/tf_files/estampa/Foto 04-04-2019 18 38 48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>estampa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>872</ymin>
+			<xmax>3829</xmax>
+			<ymax>1951</ymax>
+		</bndbox>
+	</object>
+</annotation>
